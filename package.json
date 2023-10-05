@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "homepage": "https://Burmy.github.io/SFHacks-Website/app",
+  "homepage": "https://Burmy.github.io/SFHacks-Website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
